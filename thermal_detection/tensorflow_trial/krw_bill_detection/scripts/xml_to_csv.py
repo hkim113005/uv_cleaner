@@ -26,9 +26,9 @@ def xml_to_csv(path):
 
 
 def main():
-    image_path = os.path.join(os.getcwd(), 'annotations')
-    xml_df = xml_to_csv(image_path)
-    xml_df.to_csv('raccoon_labels.csv', index=None)
+  for folder in ['train', 'test']:
+    xml_df = xml_to_csv("/content/uv_cleaner/thermal_detection/tensorflow_trial/krw_bill_detection/datasets/" + folder)
+    xml_df.to_csv('krw_label_' + folder + '.csv', index=None)
     print('Successfully converted xml to csv.')
 
 
