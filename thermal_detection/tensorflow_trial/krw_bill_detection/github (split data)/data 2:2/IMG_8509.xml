@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Korean Won Bill Data</folder>
+	<filename>IMG_8509.JPG</filename>
+	<path>/Users/hyungjaekim/Downloads/uv_cleaner/thermal_detection/Korean Won Bill Data/IMG_8509.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1240</xmin>
+			<ymin>1410</ymin>
+			<xmax>2136</xmax>
+			<ymax>3018</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1004</xmin>
+			<ymin>586</ymin>
+			<xmax>2192</xmax>
+			<ymax>1190</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>5000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2292</xmin>
+			<ymin>498</ymin>
+			<xmax>3660</xmax>
+			<ymax>1050</ymax>
+		</bndbox>
+	</object>
+</annotation>
