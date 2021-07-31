@@ -10,10 +10,30 @@ item {
 
 item {
     id: 3
-    name: '5000'
+    name: '10000won'
 }
 
 item {
     id: 4
+    name: '1000won'
+}
+
+item {
+    id: 5
+    name: '5000'
+}
+
+item {
+    id: 6
     name: '50000'
+}
+
+item {
+    id: 7
+    name: '50000won'
+}
+
+item {
+    id: 8
+    name: '5000won'
 }
