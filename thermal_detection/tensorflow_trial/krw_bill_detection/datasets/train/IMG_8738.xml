@@ -6,8 +6,8 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3024</width>
-		<height>4032</height>
+		<width>605</width>
+		<height>807</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>1785</ymin>
-			<xmax>1930</xmax>
-			<ymax>3237</ymax>
+			<ymin>357</ymin>
+			<xmax>386</xmax>
+			<ymax>648</ymax>
 		</bndbox>
 	</object>
 </annotation>
