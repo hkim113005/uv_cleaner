@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: '10000won'
+}
+
+item {
+    id: 2
+    name: '1000won'
+}
+
+item {
+    id: 3
+    name: '50000won'
+}
+
+item {
+    id: 4
+    name: '5000won'
+}
