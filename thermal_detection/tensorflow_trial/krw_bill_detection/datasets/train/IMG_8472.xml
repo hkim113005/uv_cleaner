@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>1000</name>
+		<name>1000won</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
