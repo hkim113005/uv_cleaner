@@ -6,21 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4032</width>
-		<height>3024</height>
+		<width>807</width>
+		<height>605</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>10000</name>
+		<name>10000won</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1424</xmin>
-			<ymin>850</ymin>
-			<xmax>3168</xmax>
-			<ymax>2194</ymax>
+			<xmin>285</xmin>
+			<ymin>170</ymin>
+			<xmax>634</xmax>
+			<ymax>439</ymax>
 		</bndbox>
 	</object>
 </annotation>
