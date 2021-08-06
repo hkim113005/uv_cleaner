@@ -1,0 +1,1 @@
+https://blog.platypush.tech/article/Ultimate-self-hosted-automation-with-Platypush
