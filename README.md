@@ -3,6 +3,7 @@
 
 ## Important Links
 Google Drive for Project: https://drive.google.com/drive/folders/1ND2Xbyo4cFTanv-A_s6Lteof1k25Or21?usp=sharing
+iCloud Shared Album for Project: https://www.icloud.com/sharedalbum/#B0VJtdOXm0iA7Nm
 
 ## Introduction
 The AUV-CSR (Automated UV-C Sanitizing Robot) will be a robot designed to combat virus contamination in personal areas (e.g. homes). It will accomplish this using a compact fluorescent UV-C lamp (CFL) (or UV-C LEDs) to illuminate its surroundings with germicidal UV-C rays. This CFL will be attached to a mobile chassis that will move around in a similar fashion to how a cleaning roomba might move around; i.e. through infrared sensors (and potentially Visual Simultaneous Localization and Mapping (VSLAM)). However, because long term exposure to UV-C rays can be harmful to living organisms the AUV-CSR will be able to determine the presence of a living organism (e.g. a human or animal) and turn off its UV-C lamp accordingly. This process of live organism deduction can be done through infrared (IR) thermal cameras and machine learning. 
