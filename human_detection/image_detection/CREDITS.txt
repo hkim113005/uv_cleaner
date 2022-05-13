@@ -1,0 +1,4 @@
+Original code (imgdetect-utils) from https://github.com/BlackLight/imgdetect-utils
+All credit given to Fabio Manganiello, author of original code.
+
+- Hyungjae Kim
